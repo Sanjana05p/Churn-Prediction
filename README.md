@@ -18,5 +18,5 @@ This project involves data preprocessing, feature engineering, and model evaluat
 The models help organizations take proactive measures to reduce employee turnover and improve retention strategies.
 
 ## 📂 Files
-➡️ [**Click here to view the Jupyter Notebook**](Cancer_Project_AI_IoA_23_11_2024.ipynb) <br>
-➡️ [**Click here to view the Dataset**](cancer.xls)
+➡️ [**Click here to view the Jupyter Notebook**](./Churn%Prediction.ipynb) <br>
+➡️ [**Click here to view the Dataset**](./cancer.xls)
